@@ -1,0 +1,10 @@
+
+{
+    "template": "this template is a test",
+    "title": "Title of the test"
+    "description": "Description of the test"
+    "recipients": "test@gmail.com"
+    "hasBeenSent": true
+    "upvotes": 8
+    "id": 1
+}
